@@ -1,8 +1,8 @@
 # Requirement
-Arduino 1.8.5
-Arduino mege 2560
-Arduino-compliant digital speaker module
-Arduino-compliant Audio module
+Arduino 1.8.5<br>
+Arduino mege 2560<br>
+Arduino-compliant digital speaker module<br>
+Arduino-compliant Audio module<br>
 
 # About
 This model is a sliding type Braille-Recognizer for blind who cannot read Braille. The Braille-Recognizer and braille were produced using 3D printing. Because actual braille sizes are too small to find suitable parts, they are designed in larger sizes.
