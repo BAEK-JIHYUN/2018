@@ -7,6 +7,9 @@ Arduino-compliant Audio module<br>
 # About
 This model is a sliding type Braille-Recognizer for blind who cannot read Braille. The Braille-Recognizer and braille were produced using 3D printing. Because actual braille sizes are too small to find suitable parts, they are designed in larger sizes.
 
+# Algorithm
+![flow chart2](https://user-images.githubusercontent.com/47517000/52907635-a4a9d980-32a8-11e9-9f2b-db983a4363ba.jpg)
+
 # Block Diagram
 ![block diagram](https://user-images.githubusercontent.com/47517000/52558812-e95feb80-2e36-11e9-9fb7-624bc23946fb.jpg)
 -  ① After passing through a 2mm-high-braille, the spring is raised by 2mm to reach the PCB substrate accurately, short and the signal is transmitted. It has digital data of 0V for non-spring contact and 3.3V for contact. 
